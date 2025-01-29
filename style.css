@@ -15,9 +15,10 @@ html,body{
     background-color:#fff;
 }
 #nav{
-    height: 80px;
+    height: 70px;
     width: 100%;
-    /* background-color: #fff; */
+    position: fixed;
+    background-color: #fff;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -72,5 +73,28 @@ button .btn-text {
     align-items: center; 
 
 }
+.hero-section{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    
+}
+#left{
+    height: 100%;
+    width: 50%;
+    background-color: aquamarine;
 
+}
+#left .left-top{
+    height: 66%;
+    width: 100%;
+    background-color: blue;
+}
+#
+#right{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(73, 12, 187);
+    
+}
 
