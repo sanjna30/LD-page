@@ -90,6 +90,12 @@ button .btn-text {
     width: 100%;
     background-color: blue;
 }
+#left .left-bottom .lf-b1{
+    height: 1;
+    width: 20%;
+    background-color: black;
+}
+#left .left-bottom .lf-b2
 #right{
     height: 100%;
     width: 50%;
