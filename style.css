@@ -103,3 +103,29 @@ button .btn-text {
     
 }
 
+
+
+#left{
+    height: 100%;
+    width: 50%;
+    background-color: aquamarine;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+    padding: 50px;
+
+    border: 1px solid #000;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+
+    position: relative;
+}
+#main{
+
+    
+
+}
